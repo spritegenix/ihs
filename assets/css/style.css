@@ -894,7 +894,7 @@ h3 {
 }
 
 .looking-job .media i {
-  background: #fbd3d3;
+  background: #f7bc81;
   color: #FF9A23;
   width: 55px;
   height: 55px;
@@ -1430,7 +1430,7 @@ h3 {
   position: relative;
 }
 
-.footer-area::before {
+/* .footer-area::before {
   position: absolute;
   content: '';
   background-image: url(../img/shape/footer.png);
@@ -1443,7 +1443,7 @@ h3 {
   opacity: .2;
   -webkit-animation: rotate 30s infinite linear;
           animation: rotate 30s infinite linear;
-}
+} */
 
 .footer-area .footer-widget {
   margin-bottom: 30px;
@@ -1540,7 +1540,7 @@ h3 {
 }
 
 .footer-area .footer-widget.footer-info ul li a {
-  padding-left: 25px;
+  /* padding-left: 0px; */
 }
 
 .footer-area .footer-widget.footer-info ul li:last-child {
@@ -1934,7 +1934,7 @@ h3 {
 /* Counter CSS End */
 /* Testimonial CSS Strat */
 .testimonial-slider-two .testimonial-items .testimonial-text {
-  background: #feebe6;
+  background: #f7bc81;
   padding: 50px;
   margin: 0 0 25px 0;
   -webkit-transition: 0.5s;
@@ -1979,7 +1979,7 @@ h3 {
 }
 
 .testimonial-slider-two .owl-prev, .testimonial-slider-two .owl-next {
-  background: #f8cbc0 !important;
+  background: #f7bc81 !important;
   color: #ffffff !important;
   font-size: 22px !important;
   width: 40px !important;
@@ -4101,7 +4101,7 @@ h3 {
 /*---------- Categories Page CSS End ----------*/
 /*----------  Nurses Page CSS Start ----------*/
 .page-title.title-bg20 {
-  background-image: url(../img/title-bg/20.jpg);
+  background-image: url(../img/IHS\ Bread\ Crumb.jpg);
 }
 
 .Nurses-section .Nurses-text h2 {
@@ -4121,7 +4121,7 @@ h3 {
 /*----------  Nurses Page CSS End ----------*/
 /*----------  Terms Page CSS Start ----------*/
 .page-title.title-bg19 {
-  background-image: url(../img/title-bg/19.jpg);
+  background-image: url(../img/IHS\ Bread\ Crumb.jpg);
 }
 
 .terms-section .terms-text h2 {

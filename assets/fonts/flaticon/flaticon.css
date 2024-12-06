@@ -45,7 +45,7 @@
 .flaticon-discussion:before { content: "\f10c"; }
 .flaticon-research:before { content: "\f10d"; }
 .flaticon-user:before { content: "\f10e"; }
-.flaticon-left-quotes-sign:before { content: "\f10f"; }
+.flaticon-left-quotes-sign:before { content: "\f10f"; color: white; }
 .flaticon-resume:before { content: "\f110"; }
 .fas fa-user-nurse:before{content: "f82f";}
 .flaticon-employee:before { content: "\f111"; }
